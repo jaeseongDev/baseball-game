@@ -4,6 +4,6 @@ public class Main {
 
   public static void main(String[] args) {
     BaseballGameController baseballGameController = new BaseballGameController();
-    baseballGameController.playGame();
+    baseballGameController.startGame();
   }
 }
